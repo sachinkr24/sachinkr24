@@ -57,6 +57,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe_illustrator-%2300C4CC.svg?style=for-the-badge&logo=adobe_illustrator&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2300C4CC.svg?style=for-the-badge&logo=adobe_photoshop&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-%2300C4CC.svg?style=for-the-badge&logo=Figma&logoColor=white) 
 
 <hr>
 
