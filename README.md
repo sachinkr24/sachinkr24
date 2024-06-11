@@ -78,16 +78,7 @@
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=vsb_sachin)
  
 </div>
-<hr>
 
-
-## GFG Stats:
-
-<div align="center">
- 
-![GFG Stats](https://geeksforgeeks.org/user/sachinkr24/?theme=auto&font=baloo&extension=null)
- 
-</div>
 
 <hr>
 ## GitHub Stats:
