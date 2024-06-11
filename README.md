@@ -79,16 +79,17 @@
  
 </div>
 <hr>
-<hr>
 
-## LeetCode Stats:
+
+## GFG Stats:
 
 <div align="center">
  
-![GFG Stats](https://www.geeksforgeeks.org/user/sachinkr24/)?theme=auto&font=baloo&extension=null)
+![GFG Stats](https://geeksforgeeks.org/user/sachinkr24/?theme=auto&font=baloo&extension=null)
  
 </div>
 
+<hr>
 ## GitHub Stats:
 <div align="center">
 
