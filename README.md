@@ -79,6 +79,15 @@
  
 </div>
 <hr>
+<hr>
+
+## LeetCode Stats:
+
+<div align="center">
+ 
+![GFG Stats](https://www.geeksforgeeks.org/user/sachinkr24/)?theme=auto&font=baloo&extension=null)
+ 
+</div>
 
 ## GitHub Stats:
 <div align="center">
