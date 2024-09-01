@@ -65,7 +65,7 @@
 
 <div align="center">
  
-![LeetCode Stats](https://leetcode.card.workers.dev/sachinkr24?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/Eren_Yeager_04?theme=auto&font=baloo&extension=null)
  
 </div>
 
