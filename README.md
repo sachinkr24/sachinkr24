@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
-- 👨🏽‍💻 I’m currently working as an **Software Developer Intern at UKG(Ultimate Kronos Group)**
+- 👨🏽‍💻 I’m currently working as **Software Developer Intern at UKG(Ultimate Kronos Group)**
 
 - 🏋 I’m currently learning **Data Structures and Algorithms, Machine Learning & Deep Learning**
 
