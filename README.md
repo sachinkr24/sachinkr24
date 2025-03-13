@@ -6,21 +6,18 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
-- 👨🏽‍💻 I’m currently working on **Web Development, Machine Learning & Deep Learning Projects**
+- 👨🏽‍💻 I’m currently working as an **Software Developer Intern at UKG(Ultimate Kronos Group)**
 
 - 🏋 I’m currently learning **Data Structures and Algorithms, Machine Learning & Deep Learning**
 
-- 🌏 I’m looking to collaborate on **Web Development & ML Projects**
-
-- 🤝 I’m looking for **Internships in Web Development/ML/Software Development**
-
-- 💬 I'm well versed with **C++, C, DSA**
+- 🌏 I’m looking to collaborate on **Web Development/ML/Software Development Projects**
+- 💬 I'm well versed with **C++, C, Golang, DSA**
 
 <hr>
 
 ## My Competitive Coding Handles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/sachinkr24/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Eren_Yeager_04/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/vsb_sachin)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://www.geeksforgeeks.org/user/sachinkr24/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/ros_24)
@@ -30,7 +27,7 @@
 ## Academics
 
 <span><img src="https://img.shields.io/badge/NIT ALLAHABAD-BTECH_Electronics and Communication Engineering-red?style=for-the-badge"></span>
-<span><img src="https://img.shields.io/badge/GPA-7.4/10-gold?style=for-the-badge"></span>
+<span><img src="https://img.shields.io/badge/GPA-7.5/10-gold?style=for-the-badge"></span>
 <hr>
 
 ## Socials:
@@ -42,7 +39,7 @@
 ## Tech Stack:
 
 ### Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GO](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Libraries/Frameworks:
 
@@ -66,7 +63,7 @@
 
 <div align="center">
  
-![LeetCode Stats](https://leetcode.card.workers.dev/Eren_Yeager_04?theme=auto&font=baloo&extension=null)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Eren_Yeager_04?theme=light&font=Lato&ext=contest)
  
 </div>
 
